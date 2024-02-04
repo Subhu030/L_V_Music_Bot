@@ -31,7 +31,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHAT),
         ],
         [
-           InlineKeyboardButton(text=_["ST_B_9"], url=f"https://github.com/Lippsxd/LippsMusicBot"),
+           InlineKeyboardButton(text=_["ST_B_15"], url=f"https://github.com/Lippsxd/LippsMusicBot"),
         ],
     ]
     return buttons
