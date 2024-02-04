@@ -28,9 +28,10 @@ def private_panel(_):
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHAT),
         ],
         [
-           InlineKeyboardButton(text=_["ST_B_3"], callback_data="LG"),
+           InlineKeyboardButton(text=_["ST_B_9"], url=f"https://github.com/Lippsxd/LippsMusicBot"),
         ],
     ]
     return buttons
