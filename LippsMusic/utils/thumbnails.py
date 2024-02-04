@@ -7,9 +7,9 @@ import aiofiles
 import aiohttp
 from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 from youtubesearchpython.__future__ import VideosSearch
-from RiruruMusic import app, LOGGER
-from config import YOUTUBE_IMG_URL
-from RiruruMusic.assets import bgs
+from LippsMusic import app, LOGGER
+from config import MUSIC_BOT_NAME, YOUTUBE_IMG_URL
+from LippsMusic.assets import bgs
 
 
 def changeImageSize(maxWidth, maxHeight, image):
@@ -66,7 +66,7 @@ async def gen_thumb(videoid, user_id):
         try:
             hmm = await app.download_media(lucky[0]['file_id'], file_name=f'{user_id}.jpg')
         except Exception as e:
-            LOGGER("RiruruMusic").error(e)
+            LOGGER("lippsMusic").error(e)
             umm = await app.get_profile_photos(app.id)
             hmm = await app.download_media(umm[0]['file_id'], file_name=f'{app.id}.jpg')
         op = Image.open(hmm)
@@ -80,7 +80,7 @@ async def gen_thumb(videoid, user_id):
         x = f.resize((145, 145))
 
         youtube = Image.open(f"cache/thumb{videoid}.png")
-        bg = Image.open(f"RiruruMusic/assets/{fuck}.png")
+        bg = Image.open(f"LippsMusic/assets/{fuck}.png")
         image1 = changeImageSize(1280, 720, youtube)
         image2 = image1.convert("RGBA")
         background = image2.filter(filter=ImageFilter.BoxBlur(30))
@@ -118,15 +118,15 @@ async def gen_thumb(videoid, user_id):
         background.paste(logo, (width + 2, 134), mask=logo)
 
         draw = ImageDraw.Draw(background)
-        font = ImageFont.truetype("RiruruMusic/assets/font2.ttf", 45)
-        ImageFont.truetype("RiruruMusic/assets/font2.ttf", 70)
-        arial = ImageFont.truetype("RiruruMusic/assets/font2.ttf", 30)
-        ImageFont.truetype("RiruruMusic/assets/font.ttf", 30)
+        font = ImageFont.truetype("LippsMusic/assets/font2.ttf", 45)
+        ImageFont.truetype("LippsMusic/assets/font2.ttf", 70)
+        arial = ImageFont.truetype("LippsMusic/assets/font2.ttf", 30)
+        ImageFont.truetype("LippsMusic/assets/font.ttf", 30)
         para = textwrap.wrap(title, width=32)
         try:
             draw.text(
                 (450, 25),
-                f"STARTED PLAYING",
+                f"{MUSIC_BOT_NAME}",
                 fill="white",
                 stroke_width=2,
                 stroke_fill="pink",
@@ -209,7 +209,7 @@ async def gen_qthumb(videoid, user_id):
         try:
             hmm = await app.download_media(lucky[0]['file_id'], file_name=f'{user_id}.jpg')
         except Exception as e:
-            LOGGER("RiruruMusic").error(e)
+            LOGGER("LippsMusic").error(e)
             umm = await app.get_profile_photos(app.id)
             hmm = await app.download_media(umm[0]['file_id'], file_name=f'{app.id}.jpg')
         op = Image.open(hmm)
@@ -261,10 +261,10 @@ async def gen_qthumb(videoid, user_id):
         background.paste(logo, (width + 2, 134), mask=logo)
 
         draw = ImageDraw.Draw(background)
-        font = ImageFont.truetype("RiruruMusic/assets/font2.ttf", 45)
-        ImageFont.truetype("RiruruMusic/assets/font2.ttf", 70)
-        arial = ImageFont.truetype("RiruruMusic/assets/font2.ttf", 30)
-        ImageFont.truetype("RiruruMusic/assets/font.ttf", 30)
+        font = ImageFont.truetype("LippsMusic/assets/font2.ttf", 45)
+        ImageFont.truetype("LippsMusic/assets/font2.ttf", 70)
+        arial = ImageFont.truetype("LippsMusic/assets/font2.ttf", 30)
+        ImageFont.truetype("LippsMusic/assets/font.ttf", 30)
         para = textwrap.wrap(title, width=32)
         try:
             draw.text(
