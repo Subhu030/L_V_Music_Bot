@@ -9,7 +9,7 @@ from PIL import (Image, ImageDraw, ImageEnhance, ImageFilter,
                  ImageFont, ImageOps)
 from youtubesearchpython.__future__ import VideosSearch
 import numpy as np
-from config import YOUTUBE_IMG_URL
+from config import MUSIC_BOT_NAME, YOUTUBE_IMG_URL
 
 
 def make_col():
@@ -101,14 +101,14 @@ async def gen_thumb(videoid):
             image2.paste(circle, (0,0), mask = circle)
 
             # fonts
-            font1 = ImageFont.truetype('assets/font.ttf', 30)
-            font2 = ImageFont.truetype('assets/font2.ttf', 70)
-            font3 = ImageFont.truetype('assets/font2.ttf', 40)
-            font4 = ImageFont.truetype('assets/font2.ttf', 35)
+            font1 = ImageFont.truetype('LippsMusic/assets/font.ttf', 30)
+            font2 = ImageFont.truetype('LippsMusic/assets/font2.ttf', 70)
+            font3 = ImageFont.truetype('LippsMusic/assets/font2.ttf', 40)
+            font4 = ImageFont.truetype('LippsMusic/assets/font2.ttf', 35)
 
             image4 = ImageDraw.Draw(image2)
-            image4.text((10, 10), "Powered by Jay", fill="white", font = font1, align ="left") 
-            image4.text((670, 150), "NOW PLAYING", fill="white", font = font2, stroke_width=2, stroke_fill="white", align ="left") 
+            image4.text((10, 10), f"{MUSIC_BOT_NAME}", fill="white", font = font1, align ="left") 
+            image4.text((670, 150), "STARTED PLAYING", fill="white", font = font2, stroke_width=2, stroke_fill="white", align ="left") 
 
             # title
             title1 = truncate(title)
