@@ -1,5 +1,5 @@
 <h2 align="center">   
-    「Lipps Music Bot」
+    𝐋ɪᴘᴘꜱ 𝐌ᴜꜱɪᴄ 𝐁ᴏᴛ
    </h2>  
  <p align="center">   
 <img src="https://telegra.ph/file/2c7df8cf19467cfeb4356.jpg">   
