@@ -1,7 +1,7 @@
 from pyrogram.enums import ParseMode
 
-from HarleyMusic import app
-from HarleyMusic.utils.database import is_on_off
+from LippsMusic import app
+from LippsMusic.utils.database import is_on_off
 from config import LOGGER_ID
 
 
