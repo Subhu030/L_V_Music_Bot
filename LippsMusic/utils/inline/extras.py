@@ -32,7 +32,7 @@ def supp_markup(_):
         [
             [
                 InlineKeyboardButton(
-                    text="❄️ Uᴘᴅᴀᴛᴇꜱ ❄️",
+                    text="Sᴜᴩᴩᴏʀᴛ",
                     url=SUPPORT_CHAT,
                 ),
             ]
