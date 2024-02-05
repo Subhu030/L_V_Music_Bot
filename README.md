@@ -99,9 +99,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
  </details>
 
-/p> 
+</p> 
 
-  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/export_gabbar)  
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/lippsxd)  
 
   ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
  
