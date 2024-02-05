@@ -9,9 +9,9 @@ from pyrogram.errors import (
 )
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from HarleyMusic import YouTube, app
-from HarleyMusic.misc import SUDOERS
-from HarleyMusic.utils.database import (
+from LippsMusic import YouTube, app
+from LippsMusic.misc import SUDOERS
+from LippsMusic.utils.database import (
     get_assistant,
     get_cmode,
     get_lang,
@@ -20,7 +20,7 @@ from HarleyMusic.utils.database import (
     is_active_chat,
     is_maintenance,
 )
-from HarleyMusic.utils.inline import botplaylist_markup
+from LippsMusic.utils.inline import botplaylist_markup
 from config import PLAYLIST_IMG_URL, SUPPORT_CHAT, adminlist
 from strings import get_string
 
