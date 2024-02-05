@@ -6,7 +6,7 @@
 <img src="https://telegra.ph/file/2c7df8cf19467cfeb4356.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
- <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/Lippsxd/LippsMusicBot/stargazers"><img src="https://img.shields.io/github/stars/Lippsxd/Lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Lippsxd/LippsMusicBot/network/members"> <img src="https://img.shields.io/github/forks/Lippsxd/lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
@@ -29,22 +29,7 @@
  - Program Updated 
  - Smooth Player 
  </details> 
- <details> 
- <summary> 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 🛠</summary>
-  
- - `/play <song name>` - play song you requested 
- - `/song <song name>` - download songs you want quickly 
- - `/ping` - Bot Online or Offine 
 
-  #### Admins Only 👷‍♂️ 
-
-- `/pause` - pause song play 
- - `/resume` - resume song play 
- - `/skip` - play next song 
- - `/end` - stop music play 
- </details> 
-
-<details>
 <summary>𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🥀</summary>
 
 - 🧪 Get `SESSION_NAME` variable: 
