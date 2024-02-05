@@ -2,7 +2,7 @@
  ━━━━━━━━━━━━━━━━━━━━ 
 
   <h2 align="center"> 
- ──「 ✨𝗚𝗝𝟱𝟭𝟲𝗫𝗠𝗨𝗦𝗜𝗖🥀 」── 
+  Lipps Music Bot
 
  </h2> <p align="center"> 
 
@@ -10,7 +10,7 @@
 
  </p> 
 
-  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/export_gabbar)  
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/lippsxd)  
 
   ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
  
@@ -22,7 +22,8 @@
  <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a> 
  </p> 
 
- ━━━━━━━━━━━━━━━━━━━━  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ ━━━━━━━━━━━━━━━━━━━━ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  <p align="center"> 
 
@@ -88,10 +89,7 @@
 
   ━━━━━━━━━━━━━━━━━━━━ 
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
  <h3 align="center"> 
      ─「 ᴄʀᴇᴅɪᴛs 」─ 
