@@ -93,7 +93,7 @@
    ─「 ᴄʀᴇᴅɪᴛs 」─ 
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b>
+ - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/Lippsxd)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Lippsxd/Lippsmusicbot) </b>
  - <p align="center"> 
   <img src="https://te.legra.ph/file/c45bdbdc46b3f95143e89.jpg"> 
  </p> 
