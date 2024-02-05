@@ -1,8 +1,8 @@
 import random
 from typing import Dict, List, Union
 
-from HarleyMusic import userbot
-from HarleyMusic.core.mongo import mongodb
+from LippsMusic import userbot
+from LippsMusic.core.mongo import mongodb
 
 authdb = mongodb.adminauth
 authuserdb = mongodb.authuser
