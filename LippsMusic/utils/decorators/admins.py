@@ -1,9 +1,9 @@
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from HarleyMusic import app
-from HarleyMusic.misc import SUDOERS, db
-from HarleyMusic.utils.database import (
+from LippsMusic import app
+from LippsMusic.misc import SUDOERS, db
+from LippsMusic.utils.database import (
     get_authuser_names,
     get_cmode,
     get_lang,
