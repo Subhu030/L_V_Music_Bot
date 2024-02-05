@@ -5,14 +5,14 @@ from typing import Union
 from pyrogram.types import InlineKeyboardMarkup
 
 import config
-from HarleyMusic import Carbon, YouTube, app
-from HarleyMusic.core.call import Lipps
-from HarleyMusic.misc import db
-from HarleyMusic.utils.database import add_active_video_chat, is_active_chat
+from LippsMusic import Carbon, YouTube, app
+from LippsMusic.core.call import Lipps
+from LippsMusic.misc import db
+from LippsMusic.utils.database import add_active_video_chat, is_active_chat
 from HarleyMusic.utils.exceptions import AssistantErr
-from HarleyMusic.utils.inline import aq_markup, close_markup, stream_markup
-from HarleyMusic.utils.pastebin import LippsBin
-from HarleyMusic.utils.stream.queue import put_queue, put_queue_index
+from LippsMusic.utils.inline import aq_markup, close_markup, stream_markup
+from LippsMusic.utils.pastebin import LippsBin
+from LippsMusic.utils.stream.queue import put_queue, put_queue_index
 from HarleyMusic.utils.thumbnails import get_thumb
 
 
