@@ -42,6 +42,11 @@
         "value": "",
         "required": true
       },
+      "START_IMG_URL": {
+        "description": "The Pic Which Will Be show When you Give The /start the bot in private.",
+        "value": "",
+        "required": true
+      },
       "SUPPORT_CHAT": {
         "description": "Your Telegram Groupl link.",
         "value": "",
