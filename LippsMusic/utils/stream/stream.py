@@ -13,7 +13,7 @@ from HarleyMusic.utils.exceptions import AssistantErr
 from LippsMusic.utils.inline import aq_markup, close_markup, stream_markup
 from LippsMusic.utils.pastebin import LippsBin
 from LippsMusic.utils.stream.queue import put_queue, put_queue_index
-from HarleyMusic.utils.thumbnails import get_thumb
+from LippsMusic.utils.thumbnails import get_thumb
 
 
 async def stream(
