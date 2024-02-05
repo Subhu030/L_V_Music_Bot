@@ -67,47 +67,47 @@ async def get_thumb(videoid):
         youtube = Image.open(f"cache/thumb{videoid}.png")
         image1 = changeImageSize(1280, 720, youtube)
         image2 = image1.convert("RGBA")
-        background = image2.filter(filter=ImageFilter.BoxBlur(10))
+        background = image2.filter(filter=ImageFilter.BoxBlur(0))
         enhancer = ImageEnhance.Brightness(background)
         background = enhancer.enhance(0.5)
         draw = ImageDraw.Draw(background)
-        arial = ImageFont.truetype("LippsMusic/assets/font2.ttf", 30)
-        font = ImageFont.truetype("LippsMusic/assets/font.ttf", 30)
-        draw.text((1110, 8), unidecode(app.name), fill="white", font=arial)
+        arial = ImageFont.truetype("LippsMusic/assets/font2.ttf", 0)
+        font = ImageFont.truetype("LippsMusic/assets/font.ttf", 0)
+        draw.text((0, 0), unidecode(app.name), fill="white", font=arial)
         draw.text(
-            (55, 560),
+            (0, 0),
             f"{channel} | {views[:23]}",
-            (255, 255, 255),
+            (0, 0, 0),
             font=arial,
         )
         draw.text(
-            (57, 600),
+            (0, 0),
             clear(title),
-            (255, 255, 255),
+            (0, 0, 0),
             font=font,
         )
         draw.line(
-            [(55, 660), (1220, 660)],
+            [(0, 0), (0, 0)],
             fill="white",
-            width=5,
+            width=0,
             joint="curve",
         )
         draw.ellipse(
-            [(918, 648), (942, 672)],
+            [(0, 0), (0, 0)],
             outline="white",
             fill="white",
-            width=15,
+            width=0,
         )
         draw.text(
-            (36, 685),
+            (0, 0),
             "00:00",
-            (255, 255, 255),
+            (0, 0, 0),
             font=arial,
         )
         draw.text(
-            (1185, 685),
+            (0, 0),
             f"{duration[:23]}",
-            (255, 255, 255),
+            (0, 0, 0),
             font=arial,
         )
         try:
