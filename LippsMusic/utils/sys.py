@@ -2,8 +2,8 @@ import time
 
 import psutil
 
-from HarleyMusic.misc import _boot_
-from HarleyMusic.utils.formatters import get_readable_time
+from LippsMusic.misc import _boot_
+from LippsMusic.utils.formatters import get_readable_time
 
 
 async def bot_sys_stats():
