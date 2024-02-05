@@ -67,12 +67,35 @@
  <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Lippsxd/Lippsmusicbot "><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
 
  The second easiest way to host this bot, Deploy on Okteto Cloud 
- ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ's 📡
+ ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ's ✨
 
-  <p> 
 
- Checkout [Docs](https://github.com/MrProgrammer72/GJ516Music/wiki) for Detailed Explanation on VPS Deploy
- </p> 
+- Get your [Necessary Variables](https://github.com/Lippsxd/LippsMusicbot/blob/master/sample.env)
+- Upgrade and Update by :
+`sudo apt-get update && sudo apt-get upgrade -y`
+- Install Ffmpeg by :
+`sudo apt-get install python3-pip ffmpeg -y`
+- Install required packages by :
+`sudo apt-get install python3-pip -y`
+- Install pip by :
+`sudo pip3 install -U pip`
+- Install Node js by :
+`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+- Clone the repository by :
+`git clone https://github.com/Lippsxd/lippsmusicbot && cd LippsMusic`
+- Install requirements by :
+`pip3 install -U -r requirements.txt`
+- Fill your variables in the env by :
+`vi sample.env`<br>
+Press `I` on the keyboard for editing env<br>
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+- Rename the env file by :
+`mv sample.env .env`
+- Install tmux to keep running your bot when you close the terminal by :
+`sudo apt install tmux && tmux`
+- Finally run the bot by :
+`bash start`
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 
  </details>
 
@@ -88,14 +111,6 @@
  <p align="center"> 
  <a href="https://telegram.me/thinkgrowmore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
-━━━━━━━━━━━━━━━━━━━━
-    <h3 align="center"> 
-   ─「 ᴄʀᴇᴅɪᴛs 」─ 
- </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/Lippsxd)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Lippsxd/Lippsmusicbot) </b>
- - <p align="center"> 
-  <img src="https://te.legra.ph/file/c45bdbdc46b3f95143e89.jpg"> 
- </p> 
-
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/TeamYukki) ғᴏʀ [ᴀɴᴏɴʏᴍᴏᴜꜱ ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
 ━━━━━━━━━━━━━━━━━━━━
