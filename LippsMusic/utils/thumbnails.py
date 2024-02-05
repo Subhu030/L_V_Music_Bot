@@ -8,7 +8,7 @@ from unidecode import unidecode
 from youtubesearchpython.__future__ import VideosSearch
 
 from LippsMusic import app
-from config import YOUTUBE_IMG_URL
+from config import MUSIC_BOT_NAME, YOUTUBE_IMG_URL
 
 
 def changeImageSize(maxWidth, maxHeight, image):
@@ -73,7 +73,7 @@ async def get_thumb(videoid):
         draw = ImageDraw.Draw(background)
         arial = ImageFont.truetype("LippsMusic/assets/font2.ttf", 1)
         font = ImageFont.truetype("LippsMusic/assets/font.ttf", 30)
-        draw.text((6, 6), unidecode(app.name), fill="white", font=font)
+        draw.text((6, 6), f"{MUSIC_BOT_NAME}", fill="white", font=font)
         draw.text(
             (1, 1),
             f"{channel} | {views[:23]}",
