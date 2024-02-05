@@ -1,6 +1,6 @@
 
  <h2 align="center">   
-    ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
+    ──「 Lipps Music Bot 」──  
    </h2>  
  <p align="center">   
 <img src="https://telegra.ph/file/2c7df8cf19467cfeb4356.jpg">   
