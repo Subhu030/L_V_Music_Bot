@@ -77,7 +77,7 @@ async def get_thumb(videoid):
         draw.text(
             (1, 1),
             f"{channel} | {views[:23]}",
-            (255, 255, 255),
+            (1, 1, 1),
             font=font,
         )
         draw.text(
