@@ -119,5 +119,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
  <a href="https://telegram.me/thinkgrowmore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/AnonymousX1025) ғᴏʀ [ᴀɴᴏɴʏᴍᴏᴜꜱ ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/AnonymousX1025) ғᴏʀ [ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
 ━━━━━━━━━━━━━━━━━━━━
