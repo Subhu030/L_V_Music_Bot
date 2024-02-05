@@ -81,22 +81,68 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/7fc57533c40ff57d070c3.jpg"
-)
+START_IMG_URL = getenv("START_IMG_URL", "")
+
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/c1bf05de6cda4966368dc.jpg"
+    "PING_IMG_URL",
+    "LippsMusic/assets/Ping.jpeg",
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/7ecc2c5eb4db5a21039e6.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/ea04a316367f3bfdb2ab8.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/6258a0bf81db42bf57987.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/6258a0bf81db42bf57987.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/ea04a316367f3bfdb2ab8.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/ea04a316367f3bfdb2ab8.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/a5f6f0d32b5b2488b1296.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/ea04a316367f3bfdb2ab8.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/ea04a316367f3bfdb2ab8.jpg"
+
+PLAYLIST_IMG_URL = getenv(
+    "PLAYLIST_IMG_URL",
+    "LippsMusic/assets/Playlist.jpeg",
+)
+
+GLOBAL_IMG_URL = getenv(
+    "GLOBAL_IMG_URL",
+    "LippsMusic/assets/Global.jpeg",
+)
+
+STATS_IMG_URL = getenv(
+    "STATS_IMG_URL",
+    "LippsMusic/assets/Stats.jpeg",
+)
+
+TELEGRAM_AUDIO_URL = getenv(
+    "TELEGRAM_AUDIO_URL",
+    "LippsMusic/assets/Audio.jpeg",
+)
+
+TELEGRAM_VIDEO_URL = getenv(
+    "TELEGRAM_VIDEO_URL",
+    "LippsMusic/assets/Video.jpeg",
+)
+
+STREAM_IMG_URL = getenv(
+    "STREAM_IMG_URL",
+    "LippsMusic/assets/Stream.jpeg",
+)
+
+SOUNCLOUD_IMG_URL = getenv(
+    "SOUNCLOUD_IMG_URL",
+    "LippsMusic/assets/Soundcloud.jpeg",
+)
+
+YOUTUBE_IMG_URL = getenv(
+    "YOUTUBE_IMG_URL",
+    "LippsMusic/assets/Youtube.jpeg",
+)
+
+SPOTIFY_ARTIST_IMG_URL = getenv(
+    "SPOTIFY_ARTIST_IMG_URL",
+    "LippsMusic/assets/SpotifyArtist.jpeg",
+)
+
+SPOTIFY_ALBUM_IMG_URL = getenv(
+    "SPOTIFY_ALBUM_IMG_URL",
+    "assets/SpotifyAlbum.jpeg",
+)
+
+SPOTIFY_PLAYLIST_IMG_URL = getenv(
+    "SPOTIFY_PLAYLIST_IMG_URL",
+    "LippsMusic/assets/SpotifyPlaylist.jpeg",
+)
+
 
 
 def time_to_seconds(time):
