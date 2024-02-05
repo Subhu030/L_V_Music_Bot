@@ -1,8 +1,8 @@
 from strings import get_string
 
-from HarleyMusic import app
-from HarleyMusic.misc import SUDOERS
-from HarleyMusic.utils.database import get_lang, is_maintenance
+from LippsMusic import app
+from LippsMusic.misc import SUDOERS
+from LippsMusic.utils.database import get_lang, is_maintenance
 
 
 def language(mystic):
