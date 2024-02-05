@@ -44,7 +44,7 @@
       },
       "START_IMG_URL": {
         "description": "The Pic Which Will Be show When you Give The /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph/file/2c7df8cf19467cfeb4356.jpg",
         "required": true
       },
       "SUPPORT_CHAT": {
