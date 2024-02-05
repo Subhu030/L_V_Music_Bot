@@ -1,5 +1,5 @@
-from HarleyMusic import app
-from HarleyMusic.utils.database import get_cmode
+from LippsMusic import app
+from LippsMusic.utils.database import get_cmode
 
 
 async def get_channeplayCB(_, command, CallbackQuery):
