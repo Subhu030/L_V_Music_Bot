@@ -1,87 +1,117 @@
+  
+ ━━━━━━━━━━━━━━━━━━━━ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
- <h2 align="center">   
-    ──「 Lipps Music Bot 」──  
-   </h2>  
- <p align="center">   
-<img src="https://telegra.ph/file/2c7df8cf19467cfeb4356.jpg">   
- </p> ━━━━━━━━━━━━━━━━━━━━ 
- <p align="center"> 
- <a href="https://github.com/Lippsxd/LippsMusicBot/stargazers"><img src="https://img.shields.io/github/stars/Lippsxd/Lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Lippsxd/LippsMusicBot/network/members"> <img src="https://img.shields.io/github/forks/Lippsxd/lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
- <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  <h2 align="center"> 
+ ──「 ✨𝗚𝗝𝟱𝟭𝟲𝗫𝗠𝗨𝗦𝗜𝗖🥀 」── 
+
+ </h2> <p align="center"> 
+
+   <img src="https://te.legra.ph/file/ffbb952864390e288b5ae.jpg"> 
+
  </p> 
- ━━━━━━━━━━━━━━━━━━━━
- <details> 
- <summary> 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 📝</summary> 
 
- - FFmpeg 
- - NodeJS [nodesource.com](https://nodesource.com/) 
- - Python 3.7 or higher 
- - [PyTgCalls](https://github.com/pytgcalls/pytgcalls) 
- </details> 
- <details> 
- <summary> 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 🔮</summary> 
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/export_gabbar)  
 
- - Yt-dL Fix 
- - Updated Plug-in 
- - Super Fast Bot 
- - No Lag Hang 
- - Fast Download Song From Server 
- - Program Updated 
- - Smooth Player 
- </details> 
-
-<summary>𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🥀</summary>
-
-- 🧪 Get `SESSION_NAME` variable: 
-  - [``Pyrogram Session``](https://telegram.me/)
- </details>
+  ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
  
- <details>
-<summary> 
-𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗺𝗲𝘁𝗵𝗼𝗱𝘀 🚀
-</summary> 
+  ━━━━━━━━━━━━━━━━━━━━ 
 
-
- ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀 
-
- <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Lippsxd/LippsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
-
- The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable). 
-
- ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 
-
- <p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MrProgrammer72/GJ516Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p> 
-
- The second easiest way to host this bot, Deploy on Okteto Cloud 
- ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ's 📡
-
-  <p> 
-
- Checkout [Docs](https://github.com/MrProgrammer72/GJ516Music/wiki) for Detailed Explanation on VPS Deploy
+<p align="center"> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516XMusic/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516XMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/MrProgrammer72/GJ516XMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
+ <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a> 
  </p> 
 
- </details>
+ ━━━━━━━━━━━━━━━━━━━━ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-━━━━━━━━━━━━━━━━━━━━ 
-
-   <h3 align="center"> 
-     ─「 sᴜᴩᴩᴏʀᴛ 」─ 
- </h3> 
-
-  <p align="center"> 
- <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
- </p> 
  <p align="center"> 
- <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+
+   <img src="https://te.legra.ph/file/a63c329f891ce46acc938.jpg"> 
+
  </p> 
-━━━━━━━━━━━━━━━━━━━━
-    <h3 align="center"> 
-   ─「 ᴄʀᴇᴅɪᴛs 」─ 
+
+ <p align="center"> 
+ <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b> 
+
+ </p> 
+
+  <h2 align="center">  
+    ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜ 
+
+ </h2> 
+
+ ```console 
+
+ $ sudo apt upgrade 
+ $ sudo apt install python3-pip 
+ $ git clone https://github.com/MrProgrammer72/GJ516XMusic
+ $ cd GJ516XMusic 
+ $ pip3 install -U -r requirements.txt 
+ $ cd  GJ516X
+ $ cp config.py 
+
+ ``` 
+
+ <h3 align="center">  
+   ᴇᴅɪᴛ <b>config.py</b> ᴡɪᴛʜ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ᴠᴀʟᴜᴇs 
+
  </h3> 
 
- - <b>[ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516VCBOT) </b>
- - <p align="center"> 
-  <img src="https://te.legra.ph/file/c45bdbdc46b3f95143e89.jpg"> 
+ <h2 align="center">  
+ ⇝ ʀᴜɴ ᴅɪʀᴇᴄᴛʟʏ ⇜ 
+
+ </h2> 
+
+ ```console 
+
+ $ python3 -m GJ516X
+
+ ``` 
+ <h3 align="center"> 
+  ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─ 
+
+ </h3> 
+
+ <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MrProgrammer72/GJ516XMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+ ━━━━━━━━━━━━━━━━━━━━ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+ <h3 align="center"> 
+
+     ─「 sᴜᴩᴩᴏʀᴛs 」─ 
+
+ </h3> 
+
+ <p align="center"> 
+ <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+
  </p> 
 
-━━━━━━━━━━━━━━━━━━━━
+ <p align="center"> 
+ <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+
+ </p> 
+
+  ━━━━━━━━━━━━━━━━━━━━ 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+  
+ <h3 align="center"> 
+     ─「 ᴄʀᴇᴅɪᴛs 」─ 
+ 
+<b>๏ [ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/MrProgrammer72)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/MrProgrammer72/GJ516XMusic) </b><br>
+<b>๏ [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousR1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/AnonymousR1025/AnonXmusic) </b>
+
+ ━━━━━━━━━━━━━━━━━━━━
+
