@@ -99,6 +99,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
  </details>
 
+/p> 
+
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/export_gabbar)  
+
+  ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
+ 
+
 ━━━━━━━━━━━━━━━━━━━━ 
 
    <h3 align="center"> 
