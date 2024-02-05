@@ -1,8 +1,8 @@
 import asyncio
 from typing import Union
 
-from HarleyMusic.misc import db
-from HarleyMusic.utils.formatters import check_duration, seconds_to_min
+from LippsMusic.misc import db
+from LippsMusic.utils.formatters import check_duration, seconds_to_min
 from config import autoclean, time_to_seconds
 
 
