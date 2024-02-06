@@ -121,6 +121,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/AnonymousX1025) ғᴏʀ [ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
 
-p align="center">   
-<img src="https://graph.org/file/1b9167d1a144e5c334bf8.jpg">   
 ━━━━━━━━━━━━━━━━━━━━
