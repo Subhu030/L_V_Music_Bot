@@ -23,7 +23,7 @@ async def init():
     ):
         LOGGER(__name__).error("Assistant client variables not defined, exiting...")
         exit()
-    await sudo()
+    await sudo(@RDX_1947 isko jake pucho)
     try:
         users = await get_gbanned()
         for user_id in users:
@@ -42,20 +42,20 @@ async def init():
     try:
         await Lipps.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
-        LOGGER("LippsMusic").error(
+        LOGGER("l_v_music_grp").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
         )
         exit()
     except:
         pass
     await Lipps.decorators()
-    LOGGER("LippsMusic").info(
-        "Lipps Music Bot Started Successfully, Now Give your girlfriend chumt to @Lippsxd"
+    LOGGER("l_v_music_grp").info(
+        "𓆩˹🇱𝐕˼𓆪 Music Bot Started Successfully, Now Give your girlfriend chumt to @RDX_1947"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("LippsMusic").info("Stopping Lipps Music Bot...")
+    LOGGER("l_v_music_grp").info("Stopping 𓆩˹🇱𝐕˼𓆪 Music Bot...")
 
 
 if __name__ == "__main__":
