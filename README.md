@@ -101,7 +101,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 </p> 
 
-  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/lippsxd)  
+  ## ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/RDX_1947)  
 
   ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ) 
  
