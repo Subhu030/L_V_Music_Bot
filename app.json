@@ -1,7 +1,7 @@
 {
     "name": "𓆩˹🇱𝐕˼𓆪 Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/6670933d7108d5fa4e5b0.jpg",
+    "logo": "https://graph.org/file/c05a337c3892bd5a230b9.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -44,7 +44,7 @@
       },
       "START_IMG_URL": {
         "description": "The Pic Which Will Be show When you Give The /start the bot in private.",
-        "value": "https://graph.org/file/7f6a403cd9874e6c9c38e.jpg",
+        "value": "https://graph.org/file/b09baff690537a588f0d0.jpg",
         "required": true
       },
       "SUPPORT_CHAT": {
