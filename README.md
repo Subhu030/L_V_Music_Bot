@@ -2,7 +2,7 @@
     𓆩˹🇱𝐕˼𓆪 𝐌ᴜꜱɪᴄ 𝐁ᴏᴛ
    </h2>  
  <p align="center">   
-<img src="https://graph.org/file/b09baff690537a588f0d0.jpg">   
+<img src="https://graph.org/file/1188e06d7a0bf19d01e5e.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com/Lippsxd/Lippsmusicbot /stargazers"><img src="https://img.shields.io/github/stars/Lippsxd/Lippsmusicbot ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/Lippsxd/Lippsmusicbot /network/members"> <img src="https://img.shields.io/github/forks/Lippsxd/Lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
@@ -116,7 +116,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
  <a href="https://t.me/Monster_Chat_03"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
  <p align="center"> 
- <a href="https://telegram.me/Monster_Mod_Apk"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/Monster_Mod_Apk"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/AnonymousX1025) ғᴏʀ [ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
