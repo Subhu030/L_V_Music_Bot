@@ -1,3 +1,4 @@
+![1000074080](https://github.com/user-attachments/assets/4359444d-87a5-4dab-907b-09419559a31c)
 ![1000042529](https://github.com/user-attachments/assets/ad246002-9978-463b-97bb-af5247e970bb)
 <h2 align="center">   
     𓆩˹🇱𝐕˼𓆪 𝐌ᴜꜱɪᴄ 𝐁ᴏᴛ
